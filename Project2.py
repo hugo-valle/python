@@ -17,6 +17,8 @@ def my_break(break_info = None):
         break_info["t_breaks"] = 3
         break_info["url"] = "https://youtu.be/uSD4vsh1zDA"
         break_info["t_sleep"] = 60 * 60 # one hours
+        # TODO: test for individual keys
+        # if <key> in dict
 
     break_count = 0
     while(break_count < break_info['t_breaks']):
