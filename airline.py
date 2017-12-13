@@ -96,11 +96,13 @@ class Flight:
         self._seating[to_row][to_letter] = self._seating[from_row][from_letter]
         self._seating[from_row][from_letter] = None
 
-    # def num_available_seats(self):
-    #     """
-    #     Returns available seats
-    #     :return: Available seats
-    #     """
+    def num_available_seats(self):
+        """
+        Returns available seats
+        :return: Available seats
+        """
+        return sum(sum(1 for s in row.values() if s is None)
+                for row in self._seating if row is not None)
 
 
 
@@ -151,6 +153,7 @@ def main():
     pp(f1._seating)
     f1.reallocate_pasengers("22E", "12C")
     pp(f1._seating)
+    print(f1.num_available_seats())
 
 
 
