@@ -185,8 +185,6 @@ def main():
     f1.make_boarding_cards(console_card_printer)
 
 
-
-
 if __name__ == '__main__':
     main()
     exit(0)
