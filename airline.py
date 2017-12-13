@@ -38,14 +38,13 @@ class Flight:
     def aircraft_model(self):
         return self._aircraft.model()
 
-    def allocate_seats(self, seat, passenger):
+    def _parse_seat(self, seat):
         """
-        Allocate a seat to a passenger
-        :param seat: A seat designator such '12A', '21F'
-        :param passenger: The passenger name
-        :raises: ValueError: if the seat is unavailable
+        Parse a seat designator into a valid row and letter
+        :param seat: A seat designator such as '12A'
+        :return: Tuple with an integer and a string for row and seat
         """
-        rows, seat_letter = self._aircraft.seating_plan()
+        row_number, seat_letter = self._aircraft.seating_plan()
         # Validate letter
         letter = seat[-1]
         if letter not in seat_letter:
@@ -57,13 +56,52 @@ class Flight:
         except ValueError:
             raise ValueError("Invalid seat row{}".format(row_text))
         # Valid row?
-        if row not in rows:
+        if row not in row_number:
             raise ValueError("Invalid row number{}".format(row))
+
+        return row, letter
+
+    def allocate_seats(self, seat, passenger):
+        """
+        Allocate a seat to a passenger
+        :param seat: A seat designator such '12A', '21F'
+        :param passenger: The passenger name
+        :raises: ValueError: if the seat is unavailable
+        """
+        row, letter = self._parse_seat(seat)
         # Check if it is available
         if self._seating[row][letter] is not None:
             raise ValueError("Seat {} is already occupied".format(seat))
         # Assign seat
         self._seating[row][letter] = passenger
+
+    def reallocate_pasengers(self, from_seat, to_seat):
+        """
+        Reallocate a passenger seat to a different seat
+        :param from_seat: Existing Seat designator
+        :param to_seat: New Seat designator
+        :return: Nothing
+        :raises: ValueError on: Seat already occupied, or
+                No passenger to reallocate.
+        """
+        from_row, from_letter = self._parse_seat(from_seat)
+        if self._seating[from_row][from_letter] is None:
+            raise ValueError("No passenger to reallocate in seat{}".format(
+                from_seat))
+
+        to_row, to_letter = self._parse_seat(to_seat)
+        if self._seating[to_row][to_letter] is not None:
+            raise ValueError("Seat {} already occupied".format(to_seat))
+        # Assign new seat and clear old seat
+        self._seating[to_row][to_letter] = self._seating[from_row][from_letter]
+        self._seating[from_row][from_letter] = None
+
+    # def num_available_seats(self):
+    #     """
+    #     Returns available seats
+    #     :return: Available seats
+    #     """
+
 
 
 class Aircraft:
@@ -94,7 +132,7 @@ class Aircraft:
                 "ABCDEFGHJK"[:self._num_seats_per_row])
 
 
-def main():
+def make_flights():
     a = Aircraft("G-EUPT", "AirBus A319", num_rows=22,
                   num_seats_per_row=6)
     f = Flight("AA777", a)
@@ -104,7 +142,16 @@ def main():
     f.allocate_seats("15E", "Anders Hejlsberg")     # Turbo Pascal
     #f.allocate_seats("E27", "Yukihiro Matsumoto")   # Ruby
     f.allocate_seats("22E", "Yukihiro Matsumoto")   # Ruby
-    pp(f._seating)
+
+    return f
+
+
+def main():
+    f1 = make_flights()
+    pp(f1._seating)
+    f1.reallocate_pasengers("22E", "12C")
+    pp(f1._seating)
+
 
 
 if __name__ == '__main__':
