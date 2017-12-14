@@ -20,17 +20,17 @@ def create_table(dbInfo):
          hprice     REAL)""")
     print("Done creating mock_data table")
 
+
 def read_data(dbInfo):
     """
     Reads data from DB
     :param dbInfo:
     :return: nothing
     """
-    dbInfo['cur'].execute("""SELECT * FROM STUFF
-    WHERE value = 4""")
+    dbInfo['cur'].execute("""SELECT * FROM mock_data""")
     data = dbInfo['cur'].fetchall()
-    for row in data:
-        print(row)
+    return data
+
 
 def dynamic_data_entry(dbInfo, rec):
     """
@@ -45,6 +45,7 @@ def dynamic_data_entry(dbInfo, rec):
     # Commit to DB
     # dbInfo['con'].commit()
     print("Inserting {}".format(rec))
+
 
 def main():
     dbInfo = {} # db related info
@@ -67,6 +68,7 @@ def main():
     # Clean
     dbInfo['cur'].close()
     dbInfo['con'].close()
+
 
 if __name__ == '__main__':
     main()

@@ -1,4 +1,5 @@
 import os
+import operator
 import sqlite3
 import mock_data_sql
 
@@ -38,11 +39,36 @@ def get_files(dir):
                 # Commit to DB every 100 records
                 if rec[0] % 100 == 0:
                     dbInfo['con'].commit()
-
         # last commit
         dbInfo['con'].commit()
     # Change back to original dir
     os.chdir(saved_path)
+
+
+def display_state_info(data):
+    """
+    Displays the number of homes per state
+    :param data: Data structure with home information
+    :return: nothing
+    """
+    state = {}  # rec[4] for state info
+    for rec in data:
+        if rec[4] in state:
+            state[rec[4]] += 1
+        else:
+            state[rec[4]] = 1
+    # plot the data
+    #s_state = sorted(state.items(), key=operator.itemgetter(1))
+    #s_state = tuple(state.items())
+    sname = []
+    scount = []
+    for st, count in state.items():
+        sname.append(st)
+        scount.append(count)
+        #print(st, count)
+    print(sname)
+    print(scount)
+
 
 
 def main():
@@ -50,10 +76,16 @@ def main():
     dbInfo['con'] = sqlite3.connect('tutorial.db')
     # Create a cursor (interact with DB)
     dbInfo['cur'] = dbInfo['con'].cursor()
-    mock_data_sql.create_table(dbInfo)
-    # Path to data
-    data_dir = r"C:\Users\hugovalle1\Desktop\PythonIntro\python\data"
-    get_files(data_dir)
+    # mock_data_sql.create_table(dbInfo)
+    # # Path to data
+    # data_dir = r"C:\Users\hugovalle1\Desktop\PythonIntro\python\data"
+    # get_files(data_dir)
+    data = mock_data_sql.read_data(dbInfo)
+    display_state_info(data)
+
+    # Clean
+    dbInfo['cur'].close()
+    dbInfo['con'].close()
 
 
 if __name__ == '__main__':
