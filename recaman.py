@@ -43,13 +43,42 @@ def read_series(filename):
     :param filename:
     :return: list with file records
     """
-    pass
+    fin = open(filename, mode='rt', encoding='utf-8')
+    series = []
+    for line in fin:
+        #print(type(line))
+        a = int(line.strip())
+        series.append(a)
+
+    fin.close()
+    return series
 
 
+def read_series_with_block(filename):
+    """
+    The with-block will automatically close the file for you
+    :param filename:
+    :return: list with file records
+    """
+    with open(filename, mode='rt', encoding='utf-8') as f:
+        return [int(line.strip()) for line in f]
+
+
+def words_per_line(flo):
+    return [len(line.split()) for line in flo.readlines()]
+
+    
 def main():
-    f = "recamanSeries.txt"
-    n = 100
-    write_sequence(f, n)
+    with open('test.txt', mode='rt', encoding='utf-8') as rf:
+        wpl = words_per_line(rf)
+    print(wpl, type(rf))
+    # f = "recamanSeries.txt"
+    # n = 100
+    # write_sequence(f, n)
+    # s = read_series(f)
+    # print(s)
+    # s = read_series_with_block(f)
+    # print(s)
 
 
 if __name__ == '__main__':
