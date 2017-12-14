@@ -2,6 +2,7 @@ import os
 import operator
 import sqlite3
 import mock_data_sql
+import matplotlib.pyplot as plt
 
 dbInfo = {} # db related info
 
@@ -58,16 +59,20 @@ def display_state_info(data):
         else:
             state[rec[4]] = 1
     # plot the data
-    #s_state = sorted(state.items(), key=operator.itemgetter(1))
+    s_state = sorted(state.items(), key=operator.itemgetter(1))
     #s_state = tuple(state.items())
     sname = []
     scount = []
-    for st, count in state.items():
+    #for st, count in state.items():
+    for st, count in s_state:
         sname.append(st)
         scount.append(count)
         #print(st, count)
     print(sname)
     print(scount)
+    #plt.plot(scount, sname)
+    plt.plot(sname, scount)
+    plt.show()
 
 
 
