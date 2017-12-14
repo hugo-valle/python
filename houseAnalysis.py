@@ -2,6 +2,7 @@ import os
 import sqlite3
 import mock_data_sql
 
+dbInfo = {} # db related info
 
 def get_files(dir):
     # Get current working directory
@@ -31,14 +32,20 @@ def get_files(dir):
                 rec[0] = count
                 count += 1
                 # Clean Record
-                print(rec)
+                #print(rec)
+                # Insert data
+                mock_data_sql.dynamic_data_entry(dbInfo, rec)
+                # Commit to DB every 100 records
+                if rec[0] % 100 == 0:
+                    dbInfo['con'].commit()
 
+        # last commit
+        dbInfo['con'].commit()
     # Change back to original dir
     os.chdir(saved_path)
 
 
 def main():
-    dbInfo = {} # db related info
     # Connect to DB
     dbInfo['con'] = sqlite3.connect('tutorial.db')
     # Create a cursor (interact with DB)
@@ -46,7 +53,7 @@ def main():
     mock_data_sql.create_table(dbInfo)
     # Path to data
     data_dir = r"C:\Users\hugovalle1\Desktop\PythonIntro\python\data"
-    #get_files(data_dir)
+    get_files(data_dir)
 
 
 if __name__ == '__main__':
