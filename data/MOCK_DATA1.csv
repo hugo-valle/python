@@ -1,0 +1,1001 @@
+id,number,street,city,state,postalCode,price
+1,589,Buell,San Jose,California,95173,$363051.13
+2,6557,Westridge,Houston,Texas,77201,$374771.88
+3,3791,Burning Wood,Salt Lake City,Utah,84120,$246945.81
+4,850,Burrows,Tulsa,Oklahoma,74149,$462937.20
+5,2768,Hallows,Littleton,Colorado,80127,$154543.60
+6,886,Sunbrook,Savannah,Georgia,31416,$86711.18
+7,29,6th,Lexington,Kentucky,40591,$351064.27
+8,54,Ridgeway,New York City,New York,10203,$499339.98
+9,81843,Kinsman,Hampton,Virginia,23663,$184562.76
+10,8659,Anhalt,Mesa,Arizona,85210,$310527.91
+11,9844,Gateway,Orlando,Florida,32819,$135136.35
+12,0,Glacier Hill,Baton Rouge,Louisiana,70805,$345620.31
+13,3,Jackson,Columbus,Ohio,43215,$370599.88
+14,65365,Haas,Cleveland,Ohio,44197,$436939.09
+15,274,Lake View,Boulder,Colorado,80310,$259331.23
+16,7,Crowley,Louisville,Kentucky,40287,$442255.69
+17,83946,Annamark,Oklahoma City,Oklahoma,73129,$443909.43
+18,158,Lakewood Gardens,Houston,Texas,77255,$287357.95
+19,5,Eggendart,Clearwater,Florida,34615,$449204.37
+20,67,Marquette,Beaverton,Oregon,97075,$209519.28
+21,102,Harper,El Paso,Texas,88558,$424050.90
+22,5,Cardinal,Flint,Michigan,48505,$363712.00
+23,60458,Browning,Appleton,Wisconsin,54915,$446026.75
+24,15,South,Chicago,Illinois,60609,$99341.68
+25,88908,Continental,Bakersfield,California,93399,$147505.67
+26,2620,Eastlawn,Amarillo,Texas,79182,$270719.46
+27,14470,Rieder,Sacramento,California,95852,$259930.65
+28,33714,Sage,Tulsa,Oklahoma,74103,$405158.11
+29,21248,John Wall,Des Moines,Iowa,50305,$51224.78
+30,07,Talmadge,San Diego,California,92127,$100367.70
+31,4310,Miller,Sioux Falls,South Dakota,57105,$173664.50
+32,1,Longview,Chicago,Illinois,60624,$378822.59
+33,107,Bonner,El Paso,Texas,79940,$178135.36
+34,602,6th,San Jose,California,95113,$176028.29
+35,18983,Springview,Maple Plain,Minnesota,55572,$58370.74
+36,741,Kenwood,Billings,Montana,59105,$273725.67
+37,5940,Bartelt,Grand Forks,North Dakota,58207,$430050.00
+38,318,Dawn,Spokane,Washington,99260,$200738.42
+39,5364,Heath,Valley Forge,Pennsylvania,19495,$367971.35
+40,2596,Eastlawn,Bakersfield,California,93305,$119065.32
+41,0907,Elmside,Oakland,California,94627,$380449.71
+42,753,Kingsford,Jersey City,New Jersey,07310,$358766.54
+43,33,Eastlawn,Minneapolis,Minnesota,55407,$126734.79
+44,651,Quincy,Cleveland,Ohio,44125,$64059.92
+45,9,Pankratz,Colorado Springs,Colorado,80915,$147236.80
+46,9,Bartillon,Vancouver,Washington,98682,$407258.78
+47,4245,Mccormick,Juneau,Alaska,99812,$321087.31
+48,7779,Pawling,Saint Augustine,Florida,32092,$158542.80
+49,573,Grover,Cleveland,Ohio,44130,$138165.68
+50,97,Northridge,Kansas City,Missouri,64130,$231071.93
+51,89588,Lakewood Gardens,Phoenix,Arizona,85067,$333934.94
+52,829,Marquette,Lakeland,Florida,33811,$492534.59
+53,73104,Waxwing,Atlanta,Georgia,30375,$491208.19
+54,71484,Magdeline,Orlando,Florida,32813,$98918.74
+55,62111,Glendale,Memphis,Tennessee,38161,$306778.24
+56,7,Killdeer,Albany,New York,12205,$437120.66
+57,6169,Cambridge,London,Kentucky,40745,$258245.98
+58,9617,Monica,Lexington,Kentucky,40505,$376513.18
+59,50,Fulton,Brea,California,92822,$468958.20
+60,821,Brown,Seattle,Washington,98185,$449967.17
+61,5852,Towne,Albuquerque,New Mexico,87195,$169500.12
+62,0,Weeping Birch,Indianapolis,Indiana,46254,$128926.86
+63,5854,Northwestern,Fresno,California,93715,$112694.59
+64,2012,5th,High Point,North Carolina,27264,$100087.74
+65,1015,Ridgeview,Phoenix,Arizona,85072,$103915.15
+66,6311,Loomis,Tulsa,Oklahoma,74149,$135316.31
+67,99,Comanche,Columbus,Georgia,31904,$129496.56
+68,2908,Clove,Columbus,Georgia,31904,$353892.68
+69,9,La Follette,Salt Lake City,Utah,84199,$375628.58
+70,70788,Elgar,Newton,Massachusetts,02162,$361217.35
+71,8982,Bonner,Richmond,Virginia,23260,$190940.79
+72,921,Riverside,Saint Cloud,Minnesota,56372,$427023.26
+73,590,Lukken,Charleston,West Virginia,25313,$312906.58
+74,987,Wayridge,Buffalo,New York,14233,$413848.48
+75,35233,Dennis,Bakersfield,California,93386,$373612.37
+76,4,Park Meadow,Charlotte,North Carolina,28299,$244882.39
+77,683,Saint Paul,Dallas,Texas,75397,$425148.71
+78,41624,Golf View,Oklahoma City,Oklahoma,73119,$215215.95
+79,149,Dakota,Aurora,Colorado,80015,$403672.07
+80,45683,Westport,Phoenix,Arizona,85005,$257244.55
+81,73973,Atwood,Erie,Pennsylvania,16565,$376684.66
+82,704,Bartillon,Cincinnati,Ohio,45249,$349660.42
+83,97009,Hansons,Augusta,Georgia,30919,$189661.11
+84,36,Charing Cross,Annapolis,Maryland,21405,$282386.39
+85,27,Westport,San Jose,California,95138,$365996.74
+86,7125,Fuller,San Francisco,California,94121,$458432.96
+87,0207,Swallow,Palm Bay,Florida,32909,$117470.93
+88,7865,Golf,Savannah,Georgia,31416,$253868.72
+89,60491,Sundown,Carson City,Nevada,89706,$229336.41
+90,29,2nd,Grand Rapids,Michigan,49518,$105454.11
+91,39954,Swallow,Everett,Washington,98206,$332668.14
+92,084,Nelson,Carlsbad,California,92013,$330025.03
+93,929,Becker,San Jose,California,95173,$159096.12
+94,80647,Nobel,Huntsville,Alabama,35805,$314402.56
+95,7,Del Mar,Pittsburgh,Pennsylvania,15215,$288381.82
+96,077,Lien,Amarillo,Texas,79159,$485205.91
+97,682,Claremont,Miami,Florida,33190,$196848.95
+98,3666,Talmadge,San Bernardino,California,92415,$226277.49
+99,6,Northfield,Dallas,Texas,75372,$491197.96
+100,85,Talisman,New York City,New York,10120,$432063.31
+101,1477,Bultman,Raleigh,North Carolina,27621,$343804.73
+102,48440,Havey,San Antonio,Texas,78240,$274361.12
+103,0252,Heath,Rochester,New York,14619,$355650.72
+104,99213,Fair Oaks,Saint Petersburg,Florida,33737,$422807.64
+105,34526,Westport,Louisville,Kentucky,40293,$471595.86
+106,184,Forest Run,Aiken,South Carolina,29805,$247877.48
+107,6,Arrowood,Fort Worth,Texas,76115,$485743.69
+108,37,Dovetail,Denver,Colorado,80299,$229791.47
+109,80,Nelson,Akron,Ohio,44310,$462943.45
+110,207,Pawling,Hartford,Connecticut,06183,$66306.00
+111,558,School,Albany,New York,12205,$464689.44
+112,3,Sullivan,Buffalo,New York,14276,$83173.40
+113,4694,Stang,Washington,District of Columbia,20442,$279249.32
+114,6062,Roth,Las Vegas,Nevada,89120,$220507.03
+115,8,Dryden,North Las Vegas,Nevada,89087,$240428.43
+116,07,Redwing,North Las Vegas,Nevada,89087,$207272.06
+117,65,International,Indianapolis,Indiana,46247,$419141.77
+118,5,Mayer,Hialeah,Florida,33018,$209420.20
+119,48,Roxbury,Johnson City,Tennessee,37605,$204612.93
+120,91,Monica,Hagerstown,Maryland,21747,$273555.95
+121,617,8th,Valdosta,Georgia,31605,$382066.23
+122,53,Sutteridge,Vancouver,Washington,98664,$250366.95
+123,9,Steensland,Phoenix,Arizona,85067,$450041.10
+124,54,Clyde Gallagher,New York City,New York,10099,$252441.26
+125,8077,Kinsman,Fullerton,California,92640,$432864.67
+126,94133,Butternut,Omaha,Nebraska,68164,$218625.49
+127,647,Village,Clearwater,Florida,33763,$473864.23
+128,6,Monica,Oceanside,California,92056,$298309.89
+129,9,Gina,Phoenix,Arizona,85072,$261844.47
+130,01168,Thompson,Rockville,Maryland,20851,$333587.51
+131,5227,Hauk,Louisville,Kentucky,40287,$106627.08
+132,08,Golf View,Laredo,Texas,78044,$260318.23
+133,3492,Debra,Dallas,Texas,75310,$392047.47
+134,9,Kinsman,Oakland,California,94616,$470650.47
+135,02533,Grasskamp,Huntington,West Virginia,25716,$294179.42
+136,1,Blaine,South Bend,Indiana,46620,$146054.42
+137,91439,North,Berkeley,California,94712,$276007.04
+138,5145,Eastwood,Huntsville,Texas,77343,$416785.03
+139,357,Surrey,Chicago,Illinois,60652,$391498.38
+140,14245,Forest Run,Green Bay,Wisconsin,54313,$448364.59
+141,4,Arapahoe,Abilene,Texas,79699,$409342.41
+142,0,Oriole,Jacksonville,Florida,32230,$271911.38
+143,220,Kinsman,Boston,Massachusetts,02216,$310009.92
+144,704,Old Shore,Roanoke,Virginia,24024,$241883.85
+145,62,Daystar,Saint Louis,Missouri,63110,$420666.28
+146,9075,Maple,Shawnee Mission,Kansas,66210,$319355.56
+147,3,Evergreen,Carson City,Nevada,89706,$357823.96
+148,6129,Sunnyside,Denver,Colorado,80209,$131301.99
+149,352,Kenwood,Houston,Texas,77080,$298068.18
+150,03648,Roxbury,Bronx,New York,10469,$470355.91
+151,69376,Merry,Pittsburgh,Pennsylvania,15250,$105144.02
+152,3143,Daystar,Allentown,Pennsylvania,18105,$355461.82
+153,23530,Florence,York,Pennsylvania,17405,$358788.61
+154,3,West,Dallas,Texas,75246,$329412.24
+155,3,Clove,El Paso,Texas,88589,$55005.12
+156,050,Menomonie,Plano,Texas,75074,$51207.06
+157,2,Westend,Naples,Florida,34102,$136697.71
+158,035,Pearson,Atlanta,Georgia,30358,$291284.60
+159,8,Scott,Nashville,Tennessee,37240,$462308.42
+160,7633,Anderson,Boca Raton,Florida,33487,$236350.28
+161,08,Mallard,Little Rock,Arkansas,72215,$164364.35
+162,8,Bunting,Chesapeake,Virginia,23324,$355027.31
+163,5,Johnson,Pueblo,Colorado,81010,$457026.91
+164,52306,Oneill,Minneapolis,Minnesota,55402,$124523.89
+165,5532,Becker,Washington,District of Columbia,20319,$219410.98
+166,54147,Jay,Colorado Springs,Colorado,80910,$476668.71
+167,7582,Stuart,Bronx,New York,10454,$94608.58
+168,893,Cascade,Sacramento,California,95894,$186521.14
+169,26717,Jana,Detroit,Michigan,48206,$449025.36
+170,1,Emmet,Richmond,Virginia,23228,$236433.18
+171,4,Truax,Los Angeles,California,90040,$477705.15
+172,10,Shoshone,Fort Worth,Texas,76115,$386598.53
+173,260,Sage,Anchorage,Alaska,99507,$330772.45
+174,456,Artisan,Las Vegas,Nevada,89150,$339236.42
+175,79,Stone Corner,New York City,New York,10004,$176645.56
+176,97,Merrick,Cincinnati,Ohio,45223,$172592.38
+177,886,Brown,Denver,Colorado,80228,$289777.24
+178,0,Onsgard,Houston,Texas,77045,$137958.00
+179,92474,Becker,Washington,District of Columbia,20010,$274408.43
+180,33,Lillian,Tyler,Texas,75705,$72544.02
+181,3,Jana,Fort Myers,Florida,33913,$180035.51
+182,5,Carey,Springfield,Massachusetts,01105,$212285.62
+183,962,Del Sol,Pueblo,Colorado,81005,$112562.31
+184,857,Elka,Aiken,South Carolina,29805,$384509.38
+185,0416,Mosinee,Evanston,Illinois,60208,$418932.79
+186,80829,Dahle,Richmond,Virginia,23220,$114674.17
+187,9,West,El Paso,Texas,88584,$245693.80
+188,36239,Butternut,Pittsburgh,Pennsylvania,15205,$396487.26
+189,44316,Dunning,Richmond,Virginia,23213,$102538.52
+190,1435,Ramsey,Detroit,Michigan,48211,$115060.46
+191,56048,Bashford,North Little Rock,Arkansas,72118,$98675.36
+192,674,Birchwood,Macon,Georgia,31205,$229263.94
+193,352,Harbort,Clearwater,Florida,34620,$289718.22
+194,71891,Bartelt,New Haven,Connecticut,06538,$353277.63
+195,2187,Glacier Hill,El Paso,Texas,88541,$151090.62
+196,69,Lotheville,Charleston,West Virginia,25326,$194297.36
+197,10,Longview,Kansas City,Kansas,66105,$76818.89
+198,1,Kennedy,Reno,Nevada,89505,$388504.31
+199,8247,Gale,Conroe,Texas,77305,$107805.72
+200,440,Charing Cross,Falls Church,Virginia,22047,$113659.74
+201,384,Corben,South Lake Tahoe,California,96154,$423032.54
+202,344,Express,Atlanta,Georgia,30340,$314701.70
+203,8199,Pepper Wood,Mountain View,California,94042,$337825.43
+204,01,Blue Bill Park,Johnstown,Pennsylvania,15906,$457731.62
+205,729,Crest Line,Boca Raton,Florida,33432,$205072.34
+206,50,Buhler,Houston,Texas,77223,$51808.26
+207,55915,Arizona,Richmond,Virginia,23208,$336322.94
+208,895,Sauthoff,Fort Smith,Arkansas,72916,$477416.19
+209,91,Esker,Detroit,Michigan,48258,$367706.36
+210,903,Pawling,Orlando,Florida,32891,$442027.44
+211,565,Riverside,Springfield,Illinois,62723,$253192.78
+212,52,Manufacturers,Akron,Ohio,44315,$215499.55
+213,787,Jay,Sacramento,California,95828,$455285.25
+214,146,Morrow,El Paso,Texas,88525,$152040.46
+215,9,Ronald Regan,Birmingham,Alabama,35242,$114351.25
+216,410,Fulton,Kansas City,Missouri,64199,$251702.51
+217,24021,Rusk,Concord,California,94522,$195507.95
+218,14852,Warrior,Huntington,West Virginia,25709,$256038.44
+219,8327,Holmberg,Tucson,Arizona,85754,$137439.02
+220,69,Hansons,Fort Wayne,Indiana,46896,$493500.35
+221,4297,Boyd,Miami,Florida,33169,$351522.36
+222,28384,Kedzie,New Haven,Connecticut,06510,$128024.75
+223,437,Buhler,Philadelphia,Pennsylvania,19104,$203258.43
+224,9,Delladonna,Cincinnati,Ohio,45223,$284593.44
+225,37,Linden,Wilmington,Delaware,19892,$337088.94
+226,3,Esch,Milwaukee,Wisconsin,53277,$354100.88
+227,36625,Menomonie,Jefferson City,Missouri,65105,$429157.90
+228,32114,Beilfuss,San Diego,California,92145,$292909.33
+229,69,Novick,Hattiesburg,Mississippi,39404,$143401.58
+230,216,Hovde,Bozeman,Montana,59771,$198010.51
+231,56,Shoshone,Jamaica,New York,11407,$313082.50
+232,6740,Iowa,El Paso,Texas,88546,$182591.33
+233,3,Loomis,Las Vegas,Nevada,89160,$367007.98
+234,3,Basil,Corpus Christi,Texas,78470,$135888.68
+235,42028,Butternut,Grand Rapids,Michigan,49560,$129339.62
+236,2279,Old Gate,Lakeland,Florida,33805,$207250.79
+237,28,Judy,Chicago,Illinois,60657,$373881.50
+238,0281,Manitowish,Pittsburgh,Pennsylvania,15220,$392038.42
+239,9718,Porter,Biloxi,Mississippi,39534,$349176.62
+240,7,New Castle,Modesto,California,95397,$154306.16
+241,546,Artisan,Gadsden,Alabama,35905,$280280.10
+242,216,Division,Roanoke,Virginia,24029,$89531.22
+243,081,Melody,Arlington,Virginia,22234,$423838.43
+244,635,Dennis,Pittsburgh,Pennsylvania,15266,$358792.74
+245,0,Dunning,San Francisco,California,94110,$117680.72
+246,0,Saint Paul,Washington,District of Columbia,56944,$118245.26
+247,02583,Veith,Fort Worth,Texas,76134,$476984.57
+248,970,Hollow Ridge,Sioux City,Iowa,51105,$224881.38
+249,2,Maple,Eugene,Oregon,97405,$226492.64
+250,9326,Duke,Vero Beach,Florida,32969,$166372.65
+251,56,Express,Kansas City,Missouri,64199,$243542.55
+252,0024,Hoard,Lincoln,Nebraska,68583,$287634.51
+253,60,Texas,Rochester,New York,14624,$488370.46
+254,97634,Pankratz,El Paso,Texas,79968,$253840.00
+255,1210,Kenwood,Houston,Texas,77212,$460288.75
+256,9360,Sugar,Tampa,Florida,33680,$94887.33
+257,05,Clemons,Columbus,Georgia,31904,$78941.52
+258,82,Lunder,Lincoln,Nebraska,68583,$134201.97
+259,6561,Quincy,Hayward,California,94544,$203680.34
+260,7761,Eliot,Vienna,Virginia,22184,$73768.82
+261,62247,Sauthoff,San Francisco,California,94154,$114532.15
+262,29387,Coleman,Peoria,Illinois,61605,$167150.22
+263,275,Londonderry,Sacramento,California,94280,$156109.35
+264,58433,Kropf,Tucson,Arizona,85743,$327210.72
+265,34,Clarendon,Louisville,Kentucky,40250,$405018.52
+266,670,Carberry,San Francisco,California,94132,$476161.05
+267,4799,Harbort,Tacoma,Washington,98411,$228216.95
+268,55,Montana,Jefferson City,Missouri,65110,$449289.72
+269,2,Eagle Crest,New York City,New York,10165,$84354.18
+270,8,Hollow Ridge,Berkeley,California,94705,$146824.90
+271,6819,Jana,Dayton,Ohio,45470,$315711.72
+272,69,Macpherson,Asheville,North Carolina,28815,$177030.97
+273,9311,Mallard,Winston Salem,North Carolina,27105,$186216.31
+274,60,Riverside,Springfield,Ohio,45505,$136226.40
+275,28118,Melby,Oklahoma City,Oklahoma,73119,$80191.07
+276,647,Mariners Cove,Orlando,Florida,32825,$244689.78
+277,96397,Boyd,Greeley,Colorado,80638,$215569.35
+278,2679,Kim,San Jose,California,95123,$471268.90
+279,743,Corscot,Buffalo,New York,14276,$402693.63
+280,7870,American Ash,Los Angeles,California,90020,$167362.60
+281,256,Moose,Stamford,Connecticut,06922,$142966.05
+282,6,Blaine,Roanoke,Virginia,24014,$220933.69
+283,93584,Gina,Birmingham,Alabama,35231,$193376.68
+284,05576,Fuller,Houston,Texas,77260,$282867.02
+285,8,Bluejay,Carlsbad,California,92013,$436476.56
+286,45,Corben,Anaheim,California,92825,$152898.64
+287,3229,Myrtle,Chicago,Illinois,60614,$88214.66
+288,6520,Milwaukee,Dallas,Texas,75265,$189051.45
+289,892,Melvin,Albany,New York,12232,$379735.74
+290,1,Kings,Berkeley,California,94712,$486384.02
+291,4251,Glacier Hill,Pittsburgh,Pennsylvania,15230,$425320.19
+292,5837,Mcbride,Roanoke,Virginia,24040,$270733.11
+293,91,Haas,Little Rock,Arkansas,72215,$113511.26
+294,607,Fieldstone,Rochester,New York,14604,$472647.78
+295,011,Ridgeway,Saint Paul,Minnesota,55123,$320635.59
+296,5,Steensland,Lubbock,Texas,79452,$325056.23
+297,319,Dawn,Philadelphia,Pennsylvania,19109,$149561.08
+298,3752,Crowley,New York City,New York,10029,$189974.43
+299,6137,Sloan,Palmdale,California,93591,$432370.96
+300,108,Graceland,New York City,New York,10090,$163571.46
+301,58643,Butternut,Tampa,Florida,33694,$433146.47
+302,411,Hollow Ridge,Palatine,Illinois,60078,$125148.05
+303,011,Logan,Tulsa,Oklahoma,74170,$314143.15
+304,63,Oak Valley,Saint Augustine,Florida,32092,$294748.69
+305,11618,Nancy,New York City,New York,10260,$361528.69
+306,6,Holmberg,Richmond,Virginia,23242,$386684.11
+307,4,Tony,Pittsburgh,Pennsylvania,15255,$118616.94
+308,52418,Arrowood,Erie,Pennsylvania,16565,$153290.67
+309,6,Ridge Oak,San Jose,California,95150,$89248.64
+310,7034,Farmco,Tampa,Florida,33673,$229725.68
+311,2660,Banding,Los Angeles,California,90020,$323383.80
+312,4582,3rd,Great Neck,New York,11024,$172155.32
+313,323,Ramsey,San Francisco,California,94105,$378131.47
+314,05759,Gerald,Washington,District of Columbia,20404,$422466.42
+315,1,Fairview,Miami,Florida,33169,$394014.38
+316,485,Westend,Orange,California,92862,$314769.59
+317,3485,Westerfield,Bloomington,Indiana,47405,$50696.77
+318,3839,Reinke,New Orleans,Louisiana,70160,$212655.78
+319,31916,Brickson Park,Louisville,Kentucky,40215,$183522.71
+320,9202,Dorton,Newport News,Virginia,23605,$296068.22
+321,37144,Autumn Leaf,Lubbock,Texas,79410,$194549.31
+322,5652,Loeprich,Galveston,Texas,77554,$172209.47
+323,9,Del Mar,Charlotte,North Carolina,28225,$382042.61
+324,945,Crowley,Panama City,Florida,32405,$424147.28
+325,145,Hagan,Peoria,Illinois,61656,$206414.00
+326,99,Village Green,Tucson,Arizona,85754,$153123.75
+327,150,Di Loreto,Las Vegas,Nevada,89140,$390908.96
+328,905,Algoma,Honolulu,Hawaii,96820,$385303.60
+329,09,Macpherson,Brooklyn,New York,11241,$332354.84
+330,95010,Trailsway,Springfield,Missouri,65898,$428651.60
+331,28,Stephen,Washington,District of Columbia,20046,$375972.25
+332,59,Canary,Cape Coral,Florida,33915,$493297.31
+333,5,Lotheville,Troy,Michigan,48098,$287515.71
+334,4,Burrows,San Diego,California,92153,$159407.56
+335,4204,Bartelt,Newton,Massachusetts,02162,$466702.51
+336,3516,Westport,Dallas,Texas,75310,$317122.40
+337,083,Pierstorff,Arvada,Colorado,80005,$452667.25
+338,51160,Reindahl,Young America,Minnesota,55557,$269749.25
+339,0554,Annamark,East Saint Louis,Illinois,62205,$323112.76
+340,16211,Lillian,South Lake Tahoe,California,96154,$314608.64
+341,420,Kennedy,Clearwater,Florida,33763,$98714.01
+342,5624,Manley,Washington,District of Columbia,20546,$271371.56
+343,1,Tomscot,Glendale,Arizona,85311,$95689.33
+344,944,Melrose,San Francisco,California,94110,$375694.32
+345,66075,Elka,Memphis,Tennessee,38104,$175896.87
+346,03048,1st,Las Vegas,Nevada,89155,$438605.97
+347,909,Waywood,Los Angeles,California,90035,$490952.21
+348,73268,Reinke,Baltimore,Maryland,21282,$497244.10
+349,3,Sugar,Monticello,Minnesota,55565,$290322.39
+350,7089,Dennis,Detroit,Michigan,48211,$314927.75
+351,3,Declaration,Pittsburgh,Pennsylvania,15225,$452374.67
+352,760,Sage,Little Rock,Arkansas,72222,$172520.58
+353,49,Arapahoe,Santa Cruz,California,95064,$309039.61
+354,87,Morning,Charlotte,North Carolina,28215,$363682.62
+355,643,Coleman,Stockton,California,95205,$87416.86
+356,7,Bobwhite,Columbus,Ohio,43210,$184966.74
+357,7353,Dixon,Saint Paul,Minnesota,55114,$239925.44
+358,8187,Randy,Pinellas Park,Florida,34665,$60521.55
+359,20,Parkside,Portland,Oregon,97271,$169402.95
+360,73,Bayside,Baltimore,Maryland,21265,$264513.38
+361,97,Lotheville,Oklahoma City,Oklahoma,73124,$250177.59
+362,6927,Fulton,Athens,Georgia,30605,$98785.21
+363,6670,Crescent Oaks,Miami,Florida,33190,$125510.82
+364,77,Ludington,Kansas City,Missouri,64190,$448892.48
+365,4,Summerview,Chicago,Illinois,60630,$445850.90
+366,9582,Hauk,Tampa,Florida,33661,$280800.98
+367,5383,Amoth,Decatur,Georgia,30089,$333212.39
+368,2,Spaight,Cumming,Georgia,30130,$132828.28
+369,43888,Bobwhite,Charlotte,North Carolina,28205,$53235.79
+370,56919,Sutherland,Austin,Texas,78789,$187858.78
+371,56,Erie,Boston,Massachusetts,02119,$251779.45
+372,54,Gina,Long Beach,California,90810,$61665.19
+373,181,Waxwing,Minneapolis,Minnesota,55458,$194112.62
+374,7628,Fieldstone,Rochester,New York,14614,$461054.08
+375,26,Green,San Diego,California,92165,$69964.06
+376,1,Reindahl,Anderson,South Carolina,29625,$397369.53
+377,50188,Northview,Los Angeles,California,90101,$393218.27
+378,36,Glacier Hill,Asheville,North Carolina,28815,$194049.78
+379,50083,Annamark,El Paso,Texas,88546,$484878.92
+380,6157,Memorial,Ogden,Utah,84403,$473084.68
+381,75153,Mallard,Richmond,California,94807,$65326.61
+382,039,Eastlawn,Naples,Florida,33963,$144557.80
+383,580,Eagan,Phoenix,Arizona,85040,$65098.49
+384,62,Towne,Tucson,Arizona,85754,$250100.61
+385,899,Kenwood,Erie,Pennsylvania,16565,$333966.45
+386,08125,Kensington,Des Moines,Iowa,50981,$213382.38
+387,8,Reindahl,Homestead,Florida,33034,$252522.24
+388,10,Logan,Philadelphia,Pennsylvania,19160,$352875.91
+389,82601,Heffernan,Buffalo,New York,14215,$208958.46
+390,0,Morningstar,Boston,Massachusetts,02216,$164815.09
+391,00128,Haas,Alexandria,Virginia,22301,$271080.78
+392,63,Union,Chula Vista,California,91913,$58358.44
+393,930,Northport,Garden Grove,California,92645,$493025.90
+394,335,School,Sacramento,California,95813,$357619.27
+395,586,Northwestern,Washington,District of Columbia,20470,$462550.09
+396,06727,Warrior,Fort Lauderdale,Florida,33330,$94418.77
+397,03570,Maple Wood,Washington,District of Columbia,20530,$76507.34
+398,53927,Cordelia,Salt Lake City,Utah,84199,$447004.14
+399,15,Mandrake,Pasadena,California,91125,$163791.31
+400,4,Stone Corner,Green Bay,Wisconsin,54305,$169579.55
+401,072,Roth,Albany,New York,12232,$159161.19
+402,13029,Dakota,Homestead,Florida,33034,$466157.30
+403,3,Schlimgen,Philadelphia,Pennsylvania,19104,$248395.85
+404,7881,Stuart,Detroit,Michigan,48267,$262969.74
+405,56,Dovetail,Billings,Montana,59105,$107212.62
+406,3011,Laurel,Portsmouth,New Hampshire,03804,$396178.03
+407,18834,Nancy,Austin,Texas,78732,$213678.31
+408,4236,Northport,Washington,District of Columbia,20540,$470327.51
+409,194,Little Fleur,Austin,Texas,78764,$60690.76
+410,982,Forest,Pittsburgh,Pennsylvania,15235,$215718.76
+411,90600,Express,Savannah,Georgia,31410,$391096.10
+412,53,Roxbury,Richmond,California,94807,$232386.42
+413,68065,Talisman,Tucson,Arizona,85737,$419818.35
+414,351,Thompson,Wilkes Barre,Pennsylvania,18763,$77669.35
+415,31,Bellgrove,Springfield,Massachusetts,01105,$302558.19
+416,2,Susan,Boise,Idaho,83757,$223336.60
+417,2653,North,Tuscaloosa,Alabama,35487,$383000.30
+418,6,Granby,New York City,New York,10090,$193448.55
+419,1623,Oakridge,Lexington,Kentucky,40581,$204244.12
+420,4,Mcbride,Detroit,Michigan,48258,$107113.85
+421,9,Welch,Fresno,California,93740,$164602.91
+422,268,Corry,Syracuse,New York,13210,$120166.98
+423,358,Ronald Regan,Honolulu,Hawaii,96850,$84718.83
+424,832,Fairview,Newark,New Jersey,07104,$189559.99
+425,2086,Nelson,Miami,Florida,33111,$163805.71
+426,08469,Lyons,El Paso,Texas,88558,$459183.15
+427,6,Transport,Modesto,California,95354,$424427.30
+428,612,Burrows,Houston,Texas,77245,$296678.61
+429,91,Sheridan,Greensboro,North Carolina,27425,$453492.62
+430,54,Fieldstone,Jacksonville,Florida,32204,$351835.77
+431,7,Mcbride,Newark,New Jersey,07188,$197489.98
+432,5749,Victoria,Temple,Texas,76505,$438130.87
+433,904,Colorado,Aurora,Colorado,80044,$361618.88
+434,756,Jenifer,Carol Stream,Illinois,60351,$339891.47
+435,79,Burrows,Kansas City,Kansas,66112,$390895.96
+436,203,Ilene,Warren,Michigan,48092,$278979.99
+437,2122,Cascade,Indianapolis,Indiana,46216,$323650.53
+438,10,Namekagon,Austin,Texas,78721,$342147.66
+439,62,Green,Minneapolis,Minnesota,55448,$279834.49
+440,0217,Cherokee,Glendale,California,91210,$355559.65
+441,57,Tomscot,Mesa,Arizona,85215,$152526.09
+442,11257,Pine View,San Antonio,Texas,78205,$179381.57
+443,92174,Haas,Brea,California,92822,$368333.58
+444,6057,Starling,Pueblo,Colorado,81010,$388443.44
+445,77,Drewry,Oakland,California,94611,$220814.70
+446,746,Memorial,Seattle,Washington,98115,$51977.95
+447,7,Prentice,Pittsburgh,Pennsylvania,15274,$223621.96
+448,19,Chive,Seattle,Washington,98195,$470434.99
+449,7,Buhler,Trenton,New Jersey,08603,$368911.91
+450,63107,High Crossing,Jersey City,New Jersey,07305,$384013.70
+451,750,Reinke,Henderson,Nevada,89074,$316112.57
+452,81977,Dwight,Little Rock,Arkansas,72204,$487957.18
+453,96772,Cody,Rochester,New York,14652,$159323.66
+454,68682,Merchant,Concord,California,94522,$325809.64
+455,5961,Glacier Hill,Kansas City,Missouri,64149,$286092.39
+456,95,Division,Fort Myers,Florida,33906,$299393.03
+457,42054,Cherokee,Manchester,New Hampshire,03105,$302970.27
+458,96742,Melvin,Reading,Pennsylvania,19610,$399728.81
+459,96,Brickson Park,Fort Wayne,Indiana,46862,$60834.86
+460,462,Atwood,Houston,Texas,77085,$490580.69
+461,90,Bluestem,Buffalo,New York,14225,$259558.11
+462,42,Birchwood,Jacksonville,Florida,32244,$322522.50
+463,656,Merrick,Richmond,California,94807,$454981.14
+464,3380,Hoffman,Philadelphia,Pennsylvania,19178,$225543.30
+465,22,Red Cloud,Pueblo,Colorado,81005,$55551.86
+466,4,Sutherland,Rochester,New York,14614,$382608.56
+467,16342,Fulton,Tyler,Texas,75705,$63929.86
+468,90,Mosinee,Houston,Texas,77080,$414904.27
+469,2060,Arkansas,Austin,Texas,78789,$190321.83
+470,9,Lakeland,Arlington,Texas,76004,$229243.47
+471,762,Truax,Hampton,Virginia,23668,$341462.73
+472,12,Ridgeway,Orlando,Florida,32813,$297226.68
+473,656,Schurz,Birmingham,Alabama,35215,$152567.35
+474,631,Sommers,Lexington,Kentucky,40505,$91299.86
+475,09,Sachtjen,Chula Vista,California,91913,$279623.20
+476,3,Bartillon,Kansas City,Missouri,64149,$82968.28
+477,464,Brickson Park,Tampa,Florida,33647,$68594.52
+478,920,Kenwood,Albany,Georgia,31704,$444841.32
+479,3737,Porter,San Antonio,Texas,78230,$59050.11
+480,68,John Wall,Madison,Wisconsin,53716,$383915.89
+481,2,Brentwood,Sacramento,California,94273,$196265.81
+482,67436,Namekagon,Jamaica,New York,11431,$455322.87
+483,5538,Tony,Idaho Falls,Idaho,83405,$406084.75
+484,7555,Buena Vista,Baltimore,Maryland,21290,$174865.27
+485,56849,Schiller,San Jose,California,95138,$143505.38
+486,7,Anderson,Peoria,Illinois,61640,$106753.91
+487,33371,Portage,Las Vegas,Nevada,89135,$130798.72
+488,511,Village Green,Sacramento,California,94297,$74435.05
+489,45189,Di Loreto,Houston,Texas,77005,$62640.03
+490,73,Parkside,Des Moines,Iowa,50369,$388499.88
+491,47,Memorial,Milwaukee,Wisconsin,53225,$99613.38
+492,29482,Hoffman,Troy,Michigan,48098,$316237.78
+493,3866,Columbus,Lexington,Kentucky,40546,$300225.66
+494,65,Anzinger,Hattiesburg,Mississippi,39404,$497104.94
+495,4606,Lakewood Gardens,Pasadena,California,91103,$484624.00
+496,2875,Jana,Atlanta,Georgia,30336,$429378.29
+497,17105,Loomis,Corona,California,92878,$337407.44
+498,66,Moulton,Los Angeles,California,90040,$389034.87
+499,358,Esker,Oklahoma City,Oklahoma,73135,$369739.33
+500,54106,Schmedeman,Tulsa,Oklahoma,74126,$472941.12
+501,70760,Maple Wood,Hagerstown,Maryland,21747,$431711.80
+502,733,Moland,Young America,Minnesota,55557,$225753.61
+503,9640,Sheridan,Charlotte,North Carolina,28230,$282098.22
+504,480,Buell,Salt Lake City,Utah,84130,$158880.14
+505,00009,American,Jacksonville,Florida,32215,$161400.34
+506,234,Nobel,Ridgely,Maryland,21684,$373796.56
+507,4,Red Cloud,Dayton,Ohio,45414,$82249.08
+508,904,Meadow Valley,Louisville,Kentucky,40256,$55388.23
+509,698,Tennessee,Nashville,Tennessee,37250,$398681.84
+510,28,Beilfuss,Scranton,Pennsylvania,18514,$282137.86
+511,09298,Garrison,Rockford,Illinois,61110,$498266.47
+512,12678,Ilene,Indianapolis,Indiana,46202,$277542.23
+513,3434,Ridgeview,Topeka,Kansas,66617,$190647.86
+514,14016,Maryland,Toledo,Ohio,43699,$448403.00
+515,182,Katie,Saint Cloud,Minnesota,56398,$283324.86
+516,65,American,Fort Wayne,Indiana,46896,$492345.41
+517,65218,Sundown,Seattle,Washington,98185,$224574.34
+518,803,Sachtjen,Washington,District of Columbia,20525,$96995.00
+519,5541,Maryland,Naples,Florida,33963,$141814.26
+520,20735,Manitowish,Houston,Texas,77050,$485870.09
+521,719,Bobwhite,Los Angeles,California,90189,$69162.82
+522,86,1st,Houston,Texas,77085,$426777.96
+523,192,Monica,Huntington,West Virginia,25709,$168137.22
+524,2677,Bayside,Cedar Rapids,Iowa,52405,$288476.03
+525,55,Rigney,East Saint Louis,Illinois,62205,$446459.42
+526,08525,Bowman,Houston,Texas,77050,$168241.35
+527,77,Dovetail,Birmingham,Alabama,35205,$92914.10
+528,2,Del Mar,Grand Rapids,Michigan,49560,$142536.04
+529,8,Saint Paul,Saint Paul,Minnesota,55166,$234266.40
+530,4029,Kipling,Lansing,Michigan,48912,$128081.19
+531,987,West,Dallas,Texas,75342,$439777.60
+532,8,Algoma,Minneapolis,Minnesota,55470,$423940.37
+533,505,Melody,Sacramento,California,94286,$376523.33
+534,3670,Pleasure,Santa Monica,California,90410,$438459.02
+535,620,8th,Arlington,Virginia,22234,$437776.42
+536,7,Karstens,Elizabeth,New Jersey,07208,$207984.07
+537,2541,Tony,Clearwater,Florida,33758,$188314.22
+538,64996,Canary,Cincinnati,Ohio,45213,$249948.35
+539,6,Service,Naples,Florida,33963,$192966.24
+540,2,Westend,Aurora,Colorado,80045,$325417.17
+541,4,Derek,Farmington,Michigan,48335,$368710.19
+542,29907,Garrison,Trenton,New Jersey,08608,$466588.30
+543,70,Holy Cross,Washington,District of Columbia,20370,$333067.37
+544,2050,Caliangt,Marietta,Georgia,30066,$114335.51
+545,5,Messerschmidt,Fargo,North Dakota,58106,$311741.55
+546,6738,Mayer,Denver,Colorado,80255,$349881.95
+547,5,Nelson,Carson City,Nevada,89714,$210300.74
+548,32787,Hagan,Racine,Wisconsin,53405,$263762.98
+549,7098,Main,Chula Vista,California,91913,$65708.05
+550,6025,Brickson Park,Mesa,Arizona,85205,$285217.61
+551,5,Northland,Washington,District of Columbia,20062,$392803.71
+552,706,Riverside,Clearwater,Florida,34620,$148561.67
+553,105,Washington,Kansas City,Missouri,64149,$163920.66
+554,00712,8th,San Antonio,Texas,78230,$268341.82
+555,243,Independence,Albany,New York,12242,$94338.20
+556,94,Barnett,Erie,Pennsylvania,16550,$166095.00
+557,35,Gina,Arlington,Virginia,22205,$93900.19
+558,0,Valley Edge,London,Kentucky,40745,$278178.49
+559,1,Troy,Hattiesburg,Mississippi,39404,$342841.26
+560,3724,Grover,Detroit,Michigan,48267,$189707.41
+561,485,Myrtle,Scottsdale,Arizona,85260,$256388.38
+562,3,Stoughton,Baton Rouge,Louisiana,70826,$480532.41
+563,328,Clyde Gallagher,Berkeley,California,94712,$300888.85
+564,31,Ohio,San Jose,California,95118,$486928.19
+565,38,Macpherson,Youngstown,Ohio,44511,$408265.06
+566,8248,Loomis,Lake Charles,Louisiana,70616,$69308.62
+567,55168,Cardinal,Metairie,Louisiana,70033,$300509.36
+568,8013,Prairieview,Bismarck,North Dakota,58505,$255033.15
+569,886,Maywood,Baton Rouge,Louisiana,70836,$373483.08
+570,3,Mifflin,Alpharetta,Georgia,30022,$374542.59
+571,66,Schiller,Kalamazoo,Michigan,49048,$247818.43
+572,01,Jenna,Denver,Colorado,80291,$166658.59
+573,474,Bayside,Lansing,Michigan,48930,$209495.04
+574,8,Thompson,Pittsburgh,Pennsylvania,15205,$124837.89
+575,87048,Rieder,Daytona Beach,Florida,32128,$368412.52
+576,5817,Almo,Memphis,Tennessee,38161,$422484.68
+577,78,Thompson,Manchester,New Hampshire,03105,$390430.74
+578,9,Bartelt,Atlanta,Georgia,30328,$186406.37
+579,03650,Clove,Warren,Michigan,48092,$369403.33
+580,4158,Gulseth,Madison,Wisconsin,53726,$334420.59
+581,90410,Darwin,Miami,Florida,33111,$413615.27
+582,92983,Transport,Pueblo,Colorado,81005,$76717.21
+583,090,Scott,Gainesville,Georgia,30506,$451247.71
+584,58553,South,Fort Wayne,Indiana,46862,$217060.10
+585,06,Service,Abilene,Texas,79699,$79343.71
+586,9,Buhler,Houston,Texas,77299,$107256.10
+587,88043,Monterey,Denver,Colorado,80255,$407452.05
+588,702,Shelley,Madison,Wisconsin,53790,$362666.86
+589,8912,Weeping Birch,Baton Rouge,Louisiana,70805,$224199.19
+590,675,Iowa,Los Angeles,California,90015,$332641.37
+591,396,Montana,Wichita,Kansas,67210,$91113.82
+592,3,Havey,Ann Arbor,Michigan,48107,$430404.15
+593,3678,Gale,Brooksville,Florida,34605,$237403.57
+594,50338,Amoth,Winston Salem,North Carolina,27116,$54072.89
+595,7607,Elmside,Salt Lake City,Utah,84135,$340403.94
+596,8208,Victoria,Akron,Ohio,44393,$214067.77
+597,3,New Castle,Madison,Wisconsin,53716,$59865.87
+598,42570,Dakota,Palatine,Illinois,60078,$280047.21
+599,2937,Bonner,Littleton,Colorado,80126,$69960.73
+600,9949,Kipling,Youngstown,Ohio,44511,$244095.93
+601,71,Cardinal,Fairbanks,Alaska,99790,$162590.86
+602,3057,Mosinee,Fort Worth,Texas,76192,$471385.84
+603,635,4th,Springfield,Missouri,65898,$411337.77
+604,115,Mallard,Washington,District of Columbia,20051,$272541.78
+605,667,Dwight,Fredericksburg,Virginia,22405,$352116.97
+606,566,Oneill,Jackson,Mississippi,39210,$71479.82
+607,9,Gina,Littleton,Colorado,80127,$283486.74
+608,177,Annamark,Tacoma,Washington,98417,$366703.76
+609,794,Sugar,Houston,Texas,77080,$214158.56
+610,34,Prairieview,Athens,Georgia,30610,$103429.71
+611,9906,Mcbride,Edmond,Oklahoma,73034,$150152.53
+612,6,Norway Maple,Tucson,Arizona,85754,$314603.88
+613,8873,Katie,San Diego,California,92196,$172916.19
+614,09,Almo,Stockton,California,95210,$165604.23
+615,80633,Park Meadow,Norfolk,Virginia,23551,$326763.95
+616,15332,Summerview,Sandy,Utah,84093,$425177.28
+617,0413,Heffernan,Washington,District of Columbia,20022,$119399.91
+618,01451,Dawn,Las Vegas,Nevada,89166,$75822.64
+619,8,Tennessee,Reston,Virginia,20195,$472719.79
+620,3977,School,Fort Lauderdale,Florida,33310,$388603.97
+621,07,Springs,San Bernardino,California,92424,$246851.46
+622,82978,Pleasure,Bethesda,Maryland,20892,$130614.45
+623,39,Prairieview,Sioux City,Iowa,51105,$152054.27
+624,25,Fremont,Chicago,Illinois,60604,$476815.50
+625,2610,Dennis,Omaha,Nebraska,68117,$488419.54
+626,169,Parkside,Springfield,Illinois,62723,$478243.53
+627,1,Bobwhite,Portland,Oregon,97221,$327577.80
+628,7703,Melody,Detroit,Michigan,48217,$145488.67
+629,51139,Sherman,Houston,Texas,77299,$402599.92
+630,842,School,Wichita,Kansas,67236,$320568.12
+631,911,Bashford,Chattanooga,Tennessee,37450,$486333.67
+632,7239,Thierer,Albany,New York,12237,$184720.61
+633,6451,Arizona,Fairfax,Virginia,22036,$352120.98
+634,16247,Esch,Memphis,Tennessee,38136,$300848.69
+635,640,Monica,Charleston,West Virginia,25362,$250242.89
+636,8,Mccormick,San Jose,California,95194,$59381.12
+637,2,Mccormick,College Station,Texas,77844,$412441.25
+638,462,Darwin,Sacramento,California,94237,$392848.79
+639,01,Stang,Palmdale,California,93591,$434388.32
+640,3,Jay,Lincoln,Nebraska,68517,$251471.73
+641,86059,Arrowood,Nashville,Tennessee,37235,$341699.51
+642,92,Forest,Ashburn,Virginia,22093,$463968.32
+643,7,Golf,Canton,Ohio,44705,$375809.75
+644,4,Mifflin,Lubbock,Texas,79415,$164368.73
+645,548,Forster,Saint Louis,Missouri,63104,$70620.26
+646,8584,Bowman,Anaheim,California,92805,$82564.13
+647,29991,Parkside,Saint Louis,Missouri,63180,$320232.03
+648,361,Glacier Hill,Seattle,Washington,98185,$94555.12
+649,2,Pepper Wood,Des Moines,Iowa,50981,$405775.59
+650,217,Arrowood,New Orleans,Louisiana,70179,$297004.41
+651,0175,Roxbury,Miami,Florida,33233,$324769.24
+652,29,Utah,Rochester,New York,14604,$89241.26
+653,17367,Vernon,Fort Worth,Texas,76147,$378396.43
+654,46804,Schmedeman,Simi Valley,California,93094,$136197.56
+655,064,Mayer,Minneapolis,Minnesota,55441,$242610.33
+656,7706,Dryden,Salt Lake City,Utah,84140,$147174.23
+657,7565,Melvin,Roanoke,Virginia,24004,$327900.81
+658,288,Thackeray,South Bend,Indiana,46620,$327062.90
+659,8,Gerald,Chicago,Illinois,60674,$464625.34
+660,8899,Garrison,East Saint Louis,Illinois,62205,$166105.61
+661,12,Pond,Valdosta,Georgia,31605,$366237.67
+662,5,Hayes,Carol Stream,Illinois,60158,$190262.20
+663,235,Debs,Springfield,Illinois,62723,$174691.02
+664,5,Sutherland,Washington,District of Columbia,20036,$313387.54
+665,4,Oxford,Philadelphia,Pennsylvania,19151,$315083.68
+666,5837,Colorado,New Castle,Pennsylvania,16107,$474316.68
+667,5,Randy,Fort Lauderdale,Florida,33330,$231690.10
+668,475,Hermina,Norfolk,Virginia,23551,$356788.61
+669,33,Summerview,San Antonio,Texas,78215,$132246.67
+670,54,Sullivan,El Paso,Texas,88569,$163274.99
+671,79515,Lunder,San Antonio,Texas,78265,$107864.55
+672,04,Stone Corner,Oklahoma City,Oklahoma,73190,$206217.84
+673,700,Badeau,Detroit,Michigan,48232,$373939.18
+674,317,Lillian,New York City,New York,10029,$150022.40
+675,23,5th,Denton,Texas,76210,$472955.12
+676,95,Utah,Vancouver,Washington,98664,$106871.83
+677,396,Blue Bill Park,Washington,District of Columbia,20226,$101212.30
+678,9026,Kensington,Huntington,West Virginia,25721,$320787.95
+679,058,Saint Paul,Orlando,Florida,32885,$212272.73
+680,6,Dayton,Philadelphia,Pennsylvania,19131,$289584.56
+681,5,Duke,San Francisco,California,94164,$175773.74
+682,4,Hintze,Cleveland,Ohio,44191,$138811.35
+683,7717,Ridge Oak,Utica,New York,13505,$348055.35
+684,796,Vernon,White Plains,New York,10606,$151797.97
+685,64615,Pearson,Shawnee Mission,Kansas,66276,$72992.52
+686,57,Waxwing,Houston,Texas,77228,$335670.83
+687,4133,Carioca,Young America,Minnesota,55557,$153507.53
+688,15,Ridge Oak,Albany,New York,12222,$146131.20
+689,77872,Meadow Valley,New York City,New York,10004,$475639.60
+690,0,Coleman,Oklahoma City,Oklahoma,73114,$207171.08
+691,7,Thierer,Orlando,Florida,32819,$217541.49
+692,0,Prairieview,Levittown,Pennsylvania,19058,$425762.40
+693,031,Jenna,Cleveland,Ohio,44197,$171080.28
+694,8,Tony,Lansing,Michigan,48956,$350819.53
+695,3,Grim,Austin,Texas,78778,$56762.33
+696,32368,Maryland,Watertown,Massachusetts,02472,$223721.60
+697,3694,Springs,Pueblo,Colorado,81015,$115934.79
+698,162,Crescent Oaks,Saint Louis,Missouri,63196,$389516.33
+699,5057,Ramsey,Baton Rouge,Louisiana,70815,$465945.42
+700,28,Towne,Washington,District of Columbia,56944,$419079.20
+701,37253,Maywood,Norfolk,Virginia,23514,$140411.91
+702,6,Twin Pines,Baltimore,Maryland,21239,$67689.32
+703,4,Tony,Norfolk,Virginia,23551,$165844.25
+704,1376,Jana,Birmingham,Alabama,35225,$82917.02
+705,81,Grover,Lynchburg,Virginia,24515,$130060.88
+706,95556,Hoepker,Jamaica,New York,11447,$194838.72
+707,20829,Wayridge,Peoria,Illinois,61605,$417321.76
+708,280,Gulseth,Boston,Massachusetts,02114,$157528.79
+709,24,Heffernan,Montgomery,Alabama,36114,$228615.73
+710,71795,Anniversary,Brooklyn,New York,11236,$96633.08
+711,1021,Service,Huntsville,Alabama,35810,$170119.67
+712,5983,Lillian,Indianapolis,Indiana,46226,$499575.96
+713,4949,Farmco,New Castle,Pennsylvania,16107,$463929.28
+714,290,Lotheville,Richmond,Virginia,23260,$53299.07
+715,6126,Schiller,Corpus Christi,Texas,78410,$343145.86
+716,9,Kinsman,Norfolk,Virginia,23520,$351019.71
+717,6,Garrison,Washington,District of Columbia,20299,$322096.26
+718,7,Bartelt,Gainesville,Florida,32610,$466625.12
+719,9,Oak,Charlotte,North Carolina,28272,$179314.07
+720,060,Cambridge,Boulder,Colorado,80305,$197585.88
+721,7,Oak,Fort Worth,Texas,76162,$499082.94
+722,9,Melvin,Suffolk,Virginia,23436,$165690.12
+723,4717,Walton,Oklahoma City,Oklahoma,73179,$132906.29
+724,38,Kedzie,Colorado Springs,Colorado,80925,$145683.18
+725,12190,Stang,Philadelphia,Pennsylvania,19115,$183587.81
+726,5903,Marcy,Columbus,Ohio,43226,$238936.54
+727,85,Di Loreto,Montgomery,Alabama,36109,$382519.06
+728,337,Burning Wood,Flint,Michigan,48555,$312710.65
+729,423,Commercial,Columbus,Georgia,31998,$307966.38
+730,4773,Mcguire,Tuscaloosa,Alabama,35405,$352220.82
+731,671,Londonderry,Miami,Florida,33124,$443164.37
+732,1,Meadow Vale,Mobile,Alabama,36670,$454101.57
+733,96354,Village Green,New York City,New York,10019,$486506.17
+734,1,Quincy,Gatesville,Texas,76598,$179017.59
+735,46929,4th,Lexington,Kentucky,40546,$475169.43
+736,0,Blaine,Manchester,New Hampshire,03105,$342645.17
+737,0138,Derek,Nashville,Tennessee,37210,$226673.87
+738,81616,Johnson,Louisville,Kentucky,40220,$121494.91
+739,160,Burning Wood,Pasadena,California,91117,$487640.27
+740,3,Veith,Bakersfield,California,93305,$285124.10
+741,54165,Grasskamp,Mobile,Alabama,36605,$218380.67
+742,0,Crownhardt,Saint Petersburg,Florida,33715,$330033.87
+743,7,Toban,Merrifield,Virginia,22119,$139937.67
+744,82243,Grasskamp,Louisville,Kentucky,40210,$412806.95
+745,3,Duke,San Antonio,Texas,78278,$60679.74
+746,87,Starling,Ogden,Utah,84409,$81566.74
+747,4882,Shoshone,Jacksonville,Florida,32215,$463045.44
+748,3267,Lawn,Vero Beach,Florida,32964,$146726.03
+749,0717,Everett,Sacramento,California,95823,$256973.40
+750,7718,Pond,Lubbock,Texas,79410,$280390.06
+751,11,Fulton,New York City,New York,10165,$225102.41
+752,71,Kipling,San Angelo,Texas,76905,$324003.42
+753,563,Luster,Kansas City,Missouri,64144,$50778.48
+754,195,Spenser,New York City,New York,10155,$360996.48
+755,9,Riverside,Oklahoma City,Oklahoma,73119,$457049.87
+756,02,Bluestem,Seattle,Washington,98158,$468917.84
+757,1,Northwestern,Santa Fe,New Mexico,87505,$126245.97
+758,9,Roth,Baton Rouge,Louisiana,70826,$482565.14
+759,27,Ramsey,Naples,Florida,34108,$86124.84
+760,3,Morrow,Boise,Idaho,83711,$184050.77
+761,812,Hudson,Rochester,New York,14639,$100204.61
+762,055,Victoria,Roanoke,Virginia,24014,$453447.33
+763,9419,Barby,Marietta,Georgia,30061,$277753.36
+764,85218,Monument,El Paso,Texas,79968,$359074.13
+765,91616,Kings,Irving,Texas,75037,$236739.37
+766,64157,Schlimgen,Portsmouth,New Hampshire,03804,$320509.67
+767,74594,Russell,Sioux City,Iowa,51110,$325344.02
+768,12712,Lakeland,Miami,Florida,33158,$306169.70
+769,8651,Lakewood,Brockton,Massachusetts,02405,$380788.91
+770,7,2nd,Miami,Florida,33158,$377441.90
+771,57,Commercial,Springfield,Illinois,62764,$199848.97
+772,8757,Calypso,West Palm Beach,Florida,33405,$317816.22
+773,6718,Parkside,Kansas City,Missouri,64160,$61582.85
+774,4305,Lindbergh,Chicago,Illinois,60652,$293413.01
+775,81,Pankratz,El Paso,Texas,79928,$202479.76
+776,254,Kim,Tacoma,Washington,98411,$198779.73
+777,6,Reinke,Honolulu,Hawaii,96805,$246551.56
+778,30,Fairfield,Reno,Nevada,89595,$106562.52
+779,8,American Ash,Fort Lauderdale,Florida,33330,$312860.76
+780,72177,Mesta,Chicago,Illinois,60604,$315202.98
+781,0549,Bashford,El Paso,Texas,79945,$291618.27
+782,39885,Loftsgordon,Flint,Michigan,48555,$276147.53
+783,8654,Jenifer,Irving,Texas,75037,$93779.28
+784,53968,Glacier Hill,Indianapolis,Indiana,46221,$212913.36
+785,2,Debs,Hartford,Connecticut,06152,$162858.29
+786,4,Meadow Vale,Vero Beach,Florida,32964,$198870.46
+787,5102,Butternut,San Antonio,Texas,78285,$320101.91
+788,58328,Norway Maple,Dallas,Texas,75210,$295916.77
+789,368,Rigney,Carlsbad,California,92013,$245814.10
+790,005,Coleman,Gastonia,North Carolina,28055,$100788.24
+791,038,Lillian,Clearwater,Florida,34615,$326182.62
+792,08599,Donald,Pinellas Park,Florida,34665,$52035.34
+793,10,Clarendon,Albuquerque,New Mexico,87140,$130443.91
+794,3301,Amoth,Jamaica,New York,11407,$402217.56
+795,60106,Gerald,Raleigh,North Carolina,27635,$296747.67
+796,1,Claremont,Cleveland,Ohio,44125,$434799.18
+797,07,Nevada,Dayton,Ohio,45470,$492686.60
+798,44139,Gulseth,Fort Worth,Texas,76192,$58215.67
+799,4,Forest,Pittsburgh,Pennsylvania,15220,$448254.26
+800,09,Hauk,Roanoke,Virginia,24004,$383921.21
+801,2,Cottonwood,Columbia,Missouri,65218,$134177.96
+802,703,Butternut,Chicago,Illinois,60619,$239970.58
+803,8,Hallows,Baltimore,Maryland,21282,$391703.63
+804,315,Grasskamp,Indianapolis,Indiana,46226,$393081.09
+805,1342,Ridge Oak,Pittsburgh,Pennsylvania,15286,$318826.91
+806,32,Main,Lincoln,Nebraska,68524,$276620.51
+807,39853,Farwell,Detroit,Michigan,48211,$77762.74
+808,5922,Lotheville,Bethlehem,Pennsylvania,18018,$73621.78
+809,821,Judy,Washington,District of Columbia,20299,$83469.65
+810,5,Thierer,Jackson,Mississippi,39236,$289663.63
+811,9723,Buell,Naples,Florida,33963,$122187.43
+812,22,Kipling,Chicago,Illinois,60604,$286356.78
+813,936,Daystar,Inglewood,California,90398,$432633.62
+814,79853,Scoville,San Antonio,Texas,78245,$434893.46
+815,3,Monterey,Arlington,Texas,76004,$246297.44
+816,6970,Colorado,Seattle,Washington,98121,$278633.52
+817,8,Portage,Evanston,Illinois,60208,$197911.33
+818,62,Charing Cross,Wichita,Kansas,67260,$430342.97
+819,626,Bluejay,Amarillo,Texas,79176,$53076.92
+820,62208,Donald,Naples,Florida,34114,$50401.03
+821,2,Sullivan,Amarillo,Texas,79188,$314970.14
+822,209,Anderson,Erie,Pennsylvania,16534,$51229.55
+823,16697,Springs,Monticello,Minnesota,55590,$124215.85
+824,98586,Oak Valley,Pensacola,Florida,32520,$377412.17
+825,23,Rowland,Memphis,Tennessee,38119,$469273.74
+826,2422,Dryden,San Jose,California,95108,$223397.60
+827,60013,Donald,Hampton,Virginia,23663,$279459.86
+828,2683,Express,Washington,District of Columbia,20205,$483138.65
+829,164,Havey,Elmira,New York,14905,$229165.04
+830,2,Hanover,Indianapolis,Indiana,46266,$366503.56
+831,451,Maryland,Fort Wayne,Indiana,46896,$355217.09
+832,16,Katie,Trenton,New Jersey,08603,$359855.58
+833,482,Oneill,Saint Paul,Minnesota,55114,$430903.95
+834,8,Debs,Aurora,Colorado,80045,$182165.72
+835,6,Hanover,Boston,Massachusetts,02216,$240317.25
+836,7,Birchwood,Scottsdale,Arizona,85271,$476989.54
+837,63,West,Fayetteville,North Carolina,28314,$378889.66
+838,7,Larry,Phoenix,Arizona,85062,$84214.39
+839,76,Prairie Rose,Columbus,Ohio,43204,$135787.41
+840,67,Pawling,El Paso,Texas,88541,$238180.93
+841,95558,Anthes,Houston,Texas,77010,$221763.69
+842,1898,Canary,Missoula,Montana,59806,$465514.62
+843,04910,Vermont,Tucson,Arizona,85743,$167289.28
+844,47671,Hermina,Gainesville,Florida,32605,$244012.70
+845,98551,Killdeer,Sacramento,California,94273,$393279.06
+846,86308,Miller,Erie,Pennsylvania,16510,$363890.36
+847,0938,Fair Oaks,Decatur,Georgia,30033,$162037.57
+848,90281,Sunfield,Battle Creek,Michigan,49018,$203332.23
+849,4,Boyd,Dallas,Texas,75387,$185754.17
+850,2,Lawn,Juneau,Alaska,99812,$197863.64
+851,3,Londonderry,Brockton,Massachusetts,02405,$115303.37
+852,31,Duke,New York City,New York,10165,$495301.05
+853,0969,Butterfield,San Jose,California,95138,$127375.99
+854,782,Elgar,Sacramento,California,94273,$268185.36
+855,8,Shasta,Rockford,Illinois,61110,$455939.85
+856,2,Armistice,Mount Vernon,New York,10557,$436520.65
+857,13,Pleasure,Washington,District of Columbia,20220,$485044.18
+858,2,Barby,Las Vegas,Nevada,89145,$51205.26
+859,376,Hansons,Canton,Ohio,44705,$275846.18
+860,6655,Brentwood,York,Pennsylvania,17405,$109389.02
+861,51423,Bashford,Littleton,Colorado,80126,$61003.54
+862,6441,Warner,Charleston,South Carolina,29403,$418117.07
+863,0,Dottie,Saint Petersburg,Florida,33710,$155346.08
+864,3,Nevada,New York City,New York,10155,$211586.75
+865,9020,Summit,Henderson,Nevada,89012,$169603.76
+866,375,Kenwood,Pittsburgh,Pennsylvania,15266,$491739.63
+867,4577,Merry,Washington,District of Columbia,20041,$188564.09
+868,5,Butterfield,Savannah,Georgia,31422,$387256.52
+869,8012,Reinke,El Paso,Texas,79928,$196734.63
+870,24,Shelley,Iowa City,Iowa,52245,$172813.79
+871,770,Lukken,Danbury,Connecticut,06816,$129580.56
+872,4096,Graedel,San Diego,California,92153,$205621.54
+873,64764,3rd,Rochester,New York,14683,$132689.47
+874,786,Warbler,Raleigh,North Carolina,27605,$329345.32
+875,34,Amoth,Atlanta,Georgia,30336,$256197.35
+876,5,Rigney,Danbury,Connecticut,06816,$498696.94
+877,744,Eagle Crest,Beaumont,Texas,77705,$190866.14
+878,28,Almo,Largo,Florida,33777,$62396.29
+879,6,Nelson,Las Vegas,Nevada,89178,$125561.18
+880,47,Cottonwood,Waco,Texas,76711,$107052.11
+881,1114,Helena,Philadelphia,Pennsylvania,19136,$161929.22
+882,84,Clyde Gallagher,Oklahoma City,Oklahoma,73173,$477759.09
+883,12,Crescent Oaks,Whittier,California,90605,$200476.53
+884,6847,Sloan,Tallahassee,Florida,32314,$274925.11
+885,625,Hovde,Hartford,Connecticut,06140,$359472.44
+886,0309,Del Mar,Milwaukee,Wisconsin,53263,$453497.53
+887,37,Saint Paul,Daytona Beach,Florida,32123,$93469.78
+888,533,Northland,Chula Vista,California,91913,$137348.58
+889,3358,Lillian,Fort Lauderdale,Florida,33305,$279514.39
+890,54,Claremont,Miami,Florida,33185,$418046.76
+891,76037,Park Meadow,San Francisco,California,94132,$493938.63
+892,44,Heffernan,Amarillo,Texas,79105,$431338.50
+893,95339,Carioca,Saint Louis,Missouri,63104,$358302.91
+894,65,Erie,New Orleans,Louisiana,70116,$120388.45
+895,52481,Waywood,Chicago,Illinois,60619,$393550.36
+896,99406,Kedzie,West Hartford,Connecticut,06127,$395723.91
+897,46691,Declaration,Hollywood,Florida,33023,$198438.68
+898,124,Ohio,Tucson,Arizona,85725,$481225.03
+899,26055,Lunder,Miami,Florida,33261,$450239.93
+900,41011,Dryden,Charleston,South Carolina,29411,$338566.21
+901,01331,Farwell,Huntsville,Alabama,35810,$367835.71
+902,3534,Browning,Tulsa,Oklahoma,74126,$122573.93
+903,4987,Hauk,Albany,New York,12227,$81975.59
+904,2917,Village Green,Omaha,Nebraska,68197,$474495.05
+905,29761,Merrick,Vienna,Virginia,22184,$367871.98
+906,6514,Lukken,Green Bay,Wisconsin,54313,$283291.83
+907,91,Center,Knoxville,Tennessee,37931,$122152.33
+908,81,Surrey,Cleveland,Ohio,44125,$497362.01
+909,23703,Leroy,Chicago,Illinois,60646,$129053.13
+910,17330,Doe Crossing,Dearborn,Michigan,48126,$478436.20
+911,8224,Fallview,Baltimore,Maryland,21275,$194198.47
+912,83,Clarendon,Denver,Colorado,80217,$407617.43
+913,4402,Nobel,Dallas,Texas,75216,$276997.15
+914,28,Blaine,Toledo,Ohio,43605,$328799.76
+915,8702,Pennsylvania,Greensboro,North Carolina,27455,$449751.88
+916,682,Lakeland,Silver Spring,Maryland,20918,$365843.01
+917,05,Independence,Oklahoma City,Oklahoma,73135,$460576.57
+918,99647,Bunker Hill,Chico,California,95973,$400206.43
+919,9,Carberry,Tampa,Florida,33620,$59153.23
+920,88689,Harper,Shawnee Mission,Kansas,66215,$464743.41
+921,334,Jackson,Chicago,Illinois,60669,$355792.28
+922,55007,Norway Maple,Lexington,Kentucky,40576,$166791.88
+923,8665,Judy,Columbia,South Carolina,29215,$346492.76
+924,464,Delladonna,Alexandria,Virginia,22313,$113270.50
+925,35218,Pankratz,Lake Charles,Louisiana,70616,$56866.89
+926,9473,Sycamore,Austin,Texas,78778,$380093.93
+927,741,Arrowood,Birmingham,Alabama,35242,$118086.09
+928,98,Sunnyside,Salt Lake City,Utah,84152,$321393.28
+929,205,Heath,Asheville,North Carolina,28815,$182584.01
+930,260,Pawling,Dallas,Texas,75379,$448304.73
+931,34,Sachs,Jacksonville,Florida,32209,$129130.67
+932,01,Kedzie,Scranton,Pennsylvania,18505,$50597.45
+933,223,Brickson Park,Saint Augustine,Florida,32092,$127774.62
+934,4,5th,Murfreesboro,Tennessee,37131,$250420.89
+935,530,1st,Cincinnati,Ohio,45208,$211428.23
+936,2,Maple Wood,Laredo,Texas,78044,$156672.33
+937,58580,Lunder,Austin,Texas,78710,$187650.45
+938,377,Mandrake,Washington,District of Columbia,20088,$488402.02
+939,3982,Moland,Little Rock,Arkansas,72204,$321112.31
+940,9,Sauthoff,Washington,District of Columbia,20580,$330339.32
+941,7,Forster,Fort Worth,Texas,76134,$279930.97
+942,714,Golf Course,Atlanta,Georgia,30358,$409317.68
+943,5,Reindahl,Fort Worth,Texas,76147,$239809.53
+944,3633,Nobel,Philadelphia,Pennsylvania,19172,$65135.60
+945,5258,Dahle,Lakeland,Florida,33811,$355533.10
+946,9560,Ruskin,Austin,Texas,78769,$349885.31
+947,0405,Sugar,Flint,Michigan,48550,$56681.10
+948,490,Northland,Tulsa,Oklahoma,74103,$414812.96
+949,5891,Forest,Flint,Michigan,48505,$250836.48
+950,6060,Forest Dale,Salt Lake City,Utah,84135,$491647.66
+951,908,Shasta,Colorado Springs,Colorado,80951,$62537.81
+952,062,Superior,Asheville,North Carolina,28805,$385613.20
+953,8,Pawling,Boston,Massachusetts,02109,$454226.29
+954,223,Kedzie,Salt Lake City,Utah,84152,$155375.36
+955,429,Ilene,Sacramento,California,95894,$239483.42
+956,41,Esch,El Paso,Texas,79999,$337634.00
+957,68,Rutledge,Lake Charles,Louisiana,70616,$110065.69
+958,17472,Michigan,Erie,Pennsylvania,16550,$471012.88
+959,8,Ramsey,Sioux Falls,South Dakota,57188,$440914.06
+960,24754,3rd,Louisville,Kentucky,40233,$265678.16
+961,13,Sherman,Albany,New York,12222,$345238.95
+962,059,Ramsey,Scranton,Pennsylvania,18514,$122107.09
+963,06090,Ramsey,Oklahoma City,Oklahoma,73142,$192234.33
+964,0,Sage,Mobile,Alabama,36628,$113614.05
+965,99091,Shoshone,Washington,District of Columbia,20575,$187702.70
+966,687,Quincy,Albany,New York,12242,$279636.10
+967,7079,Mallard,Chandler,Arizona,85246,$163832.02
+968,1406,Brickson Park,Dallas,Texas,75231,$284852.32
+969,87,Southridge,Tyler,Texas,75705,$175014.75
+970,7,Sheridan,Daytona Beach,Florida,32128,$146325.37
+971,72,Alpine,Philadelphia,Pennsylvania,19178,$74394.54
+972,7806,Green Ridge,Baton Rouge,Louisiana,70820,$386023.42
+973,96842,Spenser,Tacoma,Washington,98464,$358325.82
+974,2,Fordem,Raleigh,North Carolina,27605,$439448.34
+975,9958,Jana,El Paso,Texas,79989,$64475.78
+976,554,Hudson,Newton,Massachusetts,02162,$278498.04
+977,80,Marquette,Syracuse,New York,13205,$173570.68
+978,1508,Victoria,New Orleans,Louisiana,70154,$373375.45
+979,7131,Jenna,Vero Beach,Florida,32969,$349012.39
+980,26450,Merchant,Reno,Nevada,89595,$488914.24
+981,9397,Sunfield,New Haven,Connecticut,06520,$76017.60
+982,9,Buhler,Tacoma,Washington,98424,$428310.17
+983,5498,Cherokee,Schenectady,New York,12325,$342714.43
+984,97,Marquette,Salt Lake City,Utah,84152,$482650.03
+985,712,Lunder,Moreno Valley,California,92555,$122242.18
+986,84,Michigan,Sacramento,California,94286,$333046.35
+987,290,High Crossing,Lansing,Michigan,48912,$399912.64
+988,233,Schurz,Springfield,Virginia,22156,$128684.10
+989,4,Springview,New Orleans,Louisiana,70129,$335635.51
+990,55,Melody,Pasadena,California,91186,$56300.58
+991,9,Lillian,Washington,District of Columbia,20244,$358459.14
+992,2351,Sunbrook,Topeka,Kansas,66629,$248686.29
+993,49678,Anniversary,Indianapolis,Indiana,46221,$227274.63
+994,6,Walton,Terre Haute,Indiana,47805,$464402.77
+995,054,Grover,Naples,Florida,34108,$415398.95
+996,70,Buena Vista,Stamford,Connecticut,06905,$83618.06
+997,93,Katie,Miami Beach,Florida,33141,$193570.93
+998,04937,Trailsway,Garden Grove,California,92844,$456021.88
+999,26393,Morrow,Portsmouth,New Hampshire,03804,$82948.60
+1000,4,Texas,Fort Myers,Florida,33994,$424109.69
